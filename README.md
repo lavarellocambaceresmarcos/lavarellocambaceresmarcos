@@ -1,6 +1,6 @@
 👋 Hello! My name is Marcos Lavarello Cambaceres:
 
-CUrrently working on Cyberclick
+Currently working on Cyberclick
   
 🙌 I am interested in learning about UX/UI design.
  
